@@ -1,14 +1,14 @@
 # Script-of-pract1-to-4
-🐧 Q1. Directory Creation
+ Q1. Directory Creation
 Directories created
-🐧 Q2. File Operations
+ Q2. File Operations
 3 files created in B
 file1.txt copied to C
 file2.txt moved to A
 file3.txt deleted
 
 ==============================
-🐧 Q3. Navigation Commands
+ Q3. Navigation Commands
 ==============================
 Moved to directory A
 Current path:
@@ -16,7 +16,7 @@ Current path:
 Returned to parent directory
 
 ==============================
-🐧 Q4. Directory Structure
+ Q4. Directory Structure
 ==============================
 LabWork  [error opening dir]
 
@@ -24,7 +24,7 @@ LabWork  [error opening dir]
 tree command not installed
 
 ==============================
-🐧 Q5. File Creation and Writing
+ Q5. File Creation and Writing
 ==============================
 Content of data.txt:
 Linux is powerful
@@ -32,20 +32,20 @@ Linux is secure
 Linux is open-source
 
 ==============================
-🐧 Q6. Text Searching
+ Q6. Text Searching
 ==============================
 Linux is powerful
 Linux is secure
 Linux is open-source
 
 ==============================
-🐧 Q7. Delete Files
+ Q7. Delete Files
 ==============================
 Created multiple .txt files
 All .txt files deleted
 
 ==============================
-🐧 Q8. User Input Script
+ Q8. User Input Script
 ==============================
 Enter your name:
 madhu
